@@ -5,7 +5,7 @@
     "prettier/prettier": [
       "error",
       {
-        "singleQuote": true,
+        "single": true,
         "endOfLine": "auto"
       }
     ]
